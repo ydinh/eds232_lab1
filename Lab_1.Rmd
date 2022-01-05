@@ -57,7 +57,7 @@ mapview::mapview(obs, map.types = "OpenTopoMap")
 #### Question 1: How many observations total are in GBIF for your species? (Hint: ?occ)
 215,836 occurences are found with 10,000 returned.
 
-#### Question 2. Do you see any odd observations, like marine species on land or vice versa? If so, please see the Data Cleaning and explain what you did to fix or remove these points. 
+#### Question 2. Do you see any odd observations, like marine species on land or vice versa? If so, please see the Data Cleaning and explain what you did to fix or remove these points.
 
 
 
